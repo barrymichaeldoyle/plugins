@@ -114,4 +114,5 @@ native plugin structure:
 - [Oil Price Tracker (WTI/Brent)](https://github.com/nbbou81000/petrol) by [@nbbou81000](https://github.com/nbbou81000)
 - [Souvenir Map](https://github.com/nbbou81000/trmnl-carte-souvenir) by [@nbbou81000](https://github.com/nbbou81000)
 - [Formula 1 Race Weekend](https://github.com/barrymichaeldoyle/GrandPrixPicks/tree/main/apps/trmnl) by [@barrymichaeldoyle](https://github.com/barrymichaeldoyle)
+
 to be featured here, add `trmnl` topic to your repo, then open a PR or join the developer-only Discord server (link inside TRMNL UI).
